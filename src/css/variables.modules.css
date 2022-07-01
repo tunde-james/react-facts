@@ -1,0 +1,14 @@
+:root {
+  /*--- Colors ---*/
+  --nav-background: hsl(233 12% 15%);
+  --nav-logo: hsl(189 100% 50%);
+  --nav-header: hsl(193 95% 68%);
+  --nav-text: hsl(210 65% 92%);
+
+  /*--- Fonts ---*/
+  --font-primary: 'Inter', sans-serif;
+
+  --normal: 400;
+  --semibold: 600;
+  --bold: 700;
+}
