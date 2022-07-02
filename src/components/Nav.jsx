@@ -1,4 +1,3 @@
-import React from 'react'
 import ReactIcon from '../images/react-icon-small.png'
 import styles from '../css/nav.module.css'
 

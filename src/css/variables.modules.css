@@ -5,6 +5,9 @@
   --nav-header: hsl(193 95% 68%);
   --nav-text: hsl(210 65% 92%);
 
+  --main-background: hsl(217 14% 18%);
+  --main-text: hsl(0 0% 100%);
+
   /*--- Fonts ---*/
   --font-primary: 'Inter', sans-serif;
 

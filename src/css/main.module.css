@@ -1,0 +1,36 @@
+.main {
+  background-color: var(--main-background);
+  background-image: url('../images/react-icon-large.png');
+  background-repeat: no-repeat;
+  background-position: right 65%;
+  padding-block: 57px;
+  padding-inline: 25px;
+  min-height: 100vh;
+}
+
+.container {
+  width: min(100% - 2rem, 90rem);
+  margin-inline: auto;
+  color: var(--main-text);
+}
+
+.container .heading {
+  font-weight: var(--bold);
+  font-size: 2.45rem;
+  margin: 0;
+  letter-spacing: -0.8px;
+}
+
+.container .facts {
+  margin-top: 46px;
+  max-width: 400px;
+}
+
+.facts li {
+  margin-bottom: 20px;
+}
+
+.facts li::marker {
+  font-size: 1.4rem;
+  color: var(--nav-header)
+}

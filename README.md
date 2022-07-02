@@ -6,7 +6,7 @@ This project was created with Vite - (https://vitejs.dev/guide/#overview).
 
 ## Available Scripts
 
-In the project directory, you van run:
+In the project directory, you can run:
 
 ### `yarn dev`
 

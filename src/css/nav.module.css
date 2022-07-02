@@ -1,6 +1,5 @@
 .nav {
   background-color: var(--nav-background);
-  font-family: var(--font-primary);
   padding-block: 30px;
   padding-inline: 25px;
 }
