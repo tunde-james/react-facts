@@ -1,8 +1,14 @@
-# A basic React JS and PHP Project
+# React Facts
+
+This is a basic static React JS project, highlighting some facts about React JS.
 
 # Getting Started with Vite App
 
 This project was created with Vite - (https://vitejs.dev/guide/#overview).
+
+## Installation and Setup Instructions
+
+To clone down this repository. You will need `node` and `yarn` installed globally on your machine.
 
 ## Available Scripts
 
